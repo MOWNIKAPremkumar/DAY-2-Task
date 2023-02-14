@@ -1,0 +1,64 @@
+Blog on The window object and Document Object
+
+Difference between document and window objects
+
+     We will see the difference between document Object and window object, before that we have to know the browser and it's work.
+
+BROWSER:
+
+Meaning of the Browser: 
+	
+	It is a computer program that lets us look at words and pictures from other computer systems by receiving information through 
+telephone wires or from satellites.
+
+Browser and its example:
+
+     A web browser, or  browser, is an application used to access and view websites.
+ 
+Common web browsers; 
+ *Microsoft Edge
+ *Internet Explorer
+ *Google Chrome 
+ *Mozilla Firefox
+ *Safari. 
+         The primary function of a web browser is to render HTML to code, this code is used to design or 'mark up' webpages.
+
+THE DOCUMENT OBJECT:
+
+ 	The document Object is an object inside the window object. The document object is a web page that is loaded in the browser and becomes a document Object.
+It is the property of the window object and the root of the HTML document. By using the document object, we can access the element in the HTML page with the help of document objects. 
+We can add a lot of content to our web page. The document object can be accessed with a window.document or just document.
+
+Properties of document Object:
+      Properties of the document is an object of the window. It can access and modify the document Object.
+
+. Active element: It reads only the property of the document.
+. Head: It configures the head element of the document.
+. Title: It is used to set the title property.
+. Body: It has the contents of the document.
+. URL- Uniform Resource locator: It represents the link reference to the document .
+. Images: It returns the collection of  elements in the document.
+. Anchor: It is used to go to other files with the link,a href attribute.
+. Form: The form attributes one or more forms of an object element. Text, radio, checkbox, option these all are forms.
+
+Methods of Document Object:
+
+     Methods of the document can be accessed and change the contents of the document by its methods.  
+It gets Element by name,nametag, id,string. It can create, remove, add, replace and write an element.
+
+THE WINDOW OBJECT
+
+    The window object is the topmost object in the client-side JavaScript. It represents the browser window in which we see the 
+contents of the web page. Whenever a window comes to display the contents the window object is created. 
+Properties of the window object: It is the greatest tool for all the objects and functions. 
+Any data that is assigned to the window are the properties of the window object.
+
+. Console: It is the property of the window object.
+. Log: It gives output to the console.
+. Frames: It represents an array.
+. Document: It represents the document Object.
+. Length: It represents the number of counts.
+. Name: It represents the name of the reference window.
+. Location: It represents the location (href) It represents the sets of links.
+. String: It is for storing and manipulating text.
+. Object: It represents a Name, type and version of the object.
